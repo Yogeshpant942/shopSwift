@@ -42,16 +42,6 @@ Architecture: MVC
 
 API Style: REST
 
-📂 Project Structure
-shopswift/
-├── controllers/      # Business logic
-├── models/           # MongoDB schemas
-├── routes/           # API routes
-├── middleware/       # Auth & role checks
-├── config/           # DB & environment config
-├── utils/            # Helper functions
-├── app.js
-└── package.json
 
 ⚙️ Setup Instructions
 
